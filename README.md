@@ -13,9 +13,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/pankaj-panwar-829723170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-panwar-829723170" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_pankajpanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_pankajpanwar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/itz_pankaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itz_pankaj" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/itz_pankaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="itz_pankaj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/itz_pankaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itz_pankaj" height="30" width="40" /></a>
+ <a href="https://www.codechef.com/users/itz_pankaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itz_pankaj" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/itz_pankaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="itz_pankaj" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pankajpanwar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pankajpanwar1" height="30" width="40" /></a>
 </p>
 
